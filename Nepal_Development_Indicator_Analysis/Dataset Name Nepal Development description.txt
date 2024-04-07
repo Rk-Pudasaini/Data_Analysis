@@ -1,0 +1,26 @@
+Dataset Name: "Nepal Development Indicators Trends"
+
+Description:
+The dataset "Nepal Development Indicators Trends" obtained from The World Bank Data provides a comprehensive overview of various development indicators pertaining to Nepal. These indicators encompass key aspects of socio-economic development and offer insights into the country's progress over time.
+
+The dataset likely includes a wide range of indicators across different sectors such as:
+
+Economic Growth: Includes GDP growth rate, GDP per capita, sectoral contributions to GDP, etc.
+Social Development: Covers indicators related to education, health, and social welfare such as literacy rate, school enrollment rates, healthcare access, infant mortality rate, etc.
+Infrastructure: Provides data on infrastructure development including access to electricity, roads, transportation facilities, telecommunications, etc.
+Environment: Include environmental indicators such as carbon emissions, forest coverage, pollution levels, etc.
+Governance: Covers governance-related indicators like government effectiveness, rule of law, corruption perception index, etc.
+Poverty and Inequality: Includes data on poverty rates, income distribution, access to basic services among different income groups, etc.
+Agricultural and Rular Development: Access to electricity, rural (% of rural population), crop yields, fertilizers consumptions etc.
+ 
+The dataset is likely organized with rows representing representing specific indicators and columns representing different years or time periods. 
+A seperete csv file Indicator_name is maintned to figure out the indicator names aling with its index.
+
+Analysts, researchers, policymakers, and development practitioners can utilize this dataset to track Nepal's progress, identify trends, formulate policies, and make informed decisions to support the country's development goals.
+
+
+
+
+
+
+
